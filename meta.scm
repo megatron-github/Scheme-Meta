@@ -2,10 +2,6 @@
 ;
 ; FILE: meta.scm
 ;
-; NAME: Truong Pham
-;
-; DATE: April 15th, 2020
-;
 ; DESCRIPTION: Create a metacircular interpreter for popl as a small subset of
 ; Scheme. The interpreter provide a read-eval-print loop (REPL) supporting:
 ; define, lambda, let, let*, list, cons, car, cdr, set!, if, cond, eq?, equal?,
